@@ -1,0 +1,16 @@
+{
+  "name": "learn-express-sequelize_pg",
+  "version": "1.0.0",
+  "description": "learn nodeJS Express Sequelize Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "PG"
+  ],
+  "author": "hy-reza",
+  "license": "ISC"
+}
